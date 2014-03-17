@@ -1,6 +1,7 @@
 package com.prkw.webdriver.base
 
-
+import com.prkw.webdriver.base.pom.BaseCrmPage
+import com.prkw.webdriver.base.pom.LoginToBasePage
 import junit.framework.Assert
 import org.apache.commons.configuration.Configuration
 import org.apache.commons.configuration.PropertiesConfiguration
@@ -31,9 +32,10 @@ abstract class AbstractBaseTest {
     static final USER_SETTINGS_DROPDOWN_HREF = '#user-dd'
     static final LOGOUT_CLICKABLE_HREF = 'https://core.futuresimple.com/users/logout'
     static final LOGGED_BASE_NAME = 'Base CRM'
+    static final TIMEOUT_IN_SECONDS = 30
 
     WebDriver driver
-
+    BaseCrmPage  baseCrmPage
 
     @BeforeSuite
     protected void connectToBase(){
@@ -44,32 +46,21 @@ abstract class AbstractBaseTest {
         def email = config.getString("base.email")
         def password = config.getString("base.password")
 
-        driver = new FirefoxDriver();
+        driver = new FirefoxDriver()
         driver.get(BASE_LOGIN_URL)
 
-        def loggingEmail = driver.findElement(By.id(EMAIL_ID))
-        loggingEmail.sendKeys(email)
+        WebDriverWait wait = new WebDriverWait(driver,TIMEOUT_IN_SECONDS)
 
-        def loggingPassword =driver.findElement(By.id(PASSWORD_ID))
-        loggingPassword.sendKeys(password)
-        loggingPassword.sendKeys(Keys.RETURN)
-
-
-        WebDriverWait wait = new WebDriverWait(driver,20)
-        wait.until(ExpectedConditions.elementToBeClickable(By.id(WAIT_UNTIL_ELEMENT_TO_BE_CLICKABLE)))
+        LoginToBasePage loginToBasePage = new LoginToBasePage(driver, wait)
+        baseCrmPage =  loginToBasePage.loginValidCredentials(email,password)
 
         Assert.assertEquals(driver.getTitle(), LOGGED_BASE_NAME)
         LOG.info("Logging into Base, succeed")
-        //driver.close()
     }
 
     @AfterSuite
     protected void closeBaseConnection(){
-
-        driver.findElement(By.cssSelector("a[href*='$USER_SETTINGS_DROPDOWN_HREF']")).click()
-        driver.findElement(By.cssSelector("a[href*='$LOGOUT_CLICKABLE_HREF']")).click()
-        driver.close()
-        driver.quit()
+        baseCrmPage.logOut()
         LOG.info("Connection to Base closed")
     }
 

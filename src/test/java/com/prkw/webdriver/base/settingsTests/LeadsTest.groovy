@@ -68,5 +68,4 @@ class LeadsTest extends AbstractBaseTest{
         Assert.assertTrue(resultSet == map.keySet())
     }
 
-
 }

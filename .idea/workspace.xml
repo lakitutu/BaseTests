@@ -64,41 +64,75 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="LeadStatusTest.groovy" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/prkw/webdriver/base/settingsTests/LeadStatusTest.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="0" selection-start="1772" selection-end="1772" vertical-scroll-proportion="0.0" vertical-offset="509" max-vertical-offset="952">
+            <state line="54" column="19" selection-start="1856" selection-end="1856" vertical-scroll-proportion="0.5218391" vertical-offset="504" max-vertical-offset="1003">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AbstractBaseTest.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/prkw/webdriver/base/AbstractBaseTest.groovy">
+      <file leaf-file-name="BaseCredentials.properties" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/BaseCredentials.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="82" column="106" selection-start="3107" selection-end="3107" vertical-scroll-proportion="0.0" vertical-offset="1142" max-vertical-offset="1547">
-              <folding>
-                <element signature="e#34#63#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="log4j.properties" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="59" selection-start="305" selection-end="305" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+            <state line="0" column="12" selection-start="12" selection-end="12" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LeadsTest.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/prkw/webdriver/base/settingsTests/LeadsTest.groovy">
+      <file leaf-file-name="SettingsPage.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/prkw/webdriver/base/pom/SettingsPage.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="66" column="8" selection-start="2577" selection-end="2577" vertical-scroll-proportion="-11.769231" vertical-offset="816" max-vertical-offset="1326">
+            <state line="22" column="42" selection-start="836" selection-end="840" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="476">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginToBasePage.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/prkw/webdriver/base/pom/LoginToBasePage.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="40" column="60" selection-start="1289" selection-end="1289" vertical-scroll-proportion="0.0" vertical-offset="321" max-vertical-offset="782">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseCrmPage.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/prkw/webdriver/base/pom/BaseCrmPage.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="14" selection-start="435" selection-end="460" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractBasePage.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/prkw/webdriver/base/pom/AbstractBasePage.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="14" selection-start="795" selection-end="795" vertical-scroll-proportion="0.0" vertical-offset="355" max-vertical-offset="816">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LeadsPage.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/prkw/webdriver/base/pom/LeadsPage.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="48" selection-start="437" selection-end="437" vertical-scroll-proportion="0.0" vertical-offset="481" max-vertical-offset="1173">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LeadsSettingsPage.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/prkw/webdriver/base/pom/LeadsSettingsPage.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="0" selection-start="680" selection-end="680" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="748">
               <folding>
-                <element signature="e#47#94#0" expanded="true" />
+                <element signature="e#37#66#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -107,46 +141,16 @@
       <file leaf-file-name="testlog.log" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/logs/testlog.log">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
+            <state line="210" column="0" selection-start="20533" selection-end="20533" vertical-scroll-proportion="0.0" vertical-offset="3840" max-vertical-offset="4301">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BaseCredentials.properties" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/BaseCredentials.properties">
+      <file leaf-file-name="LeadPropertiesPage.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/prkw/webdriver/base/pom/LeadPropertiesPage.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="12" selection-start="12" selection-end="12" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="ResourceBundle">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CustomFieldsHelper.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/prkw/utils/CustomFieldsHelper.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="69" selection-start="1401" selection-end="1436" vertical-scroll-proportion="0.0" vertical-offset="661" max-vertical-offset="986">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CustomFieldsHelperDeprecated.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/prkw/utils/CustomFieldsHelperDeprecated.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="6" selection-start="255" selection-end="255" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CustomFieldsHelperTest.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/prkw/utils/CustomFieldsHelperTest.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="125" column="18" selection-start="5913" selection-end="5974" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2278">
+            <state line="11" column="59" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
               <folding />
             </state>
           </provider>
@@ -181,8 +185,18 @@
         <option value="$PROJECT_DIR$/src/main/java/com/prkw/utils/CustomFieldsHelperDeprecated.groovy" />
         <option value="$PROJECT_DIR$/src/main/java/com/prkw/utils/CustomFieldsHelper.groovy" />
         <option value="$PROJECT_DIR$/src/test/java/com/prkw/utils/CustomFieldsHelperTest.groovy" />
-        <option value="$PROJECT_DIR$/src/test/java/com/prkw/webdriver/base/AbstractBaseTest.groovy" />
+        <option value="$PROJECT_DIR$/src/main/java/com/prkw/webdriver/base/pom/LeadsPAge.groovy" />
         <option value="$PROJECT_DIR$/src/test/java/com/prkw/webdriver/base/settingsTests/LeadsTest.groovy" />
+        <option value="$PROJECT_DIR$/src/main/java/com/prkw/webdriver/base/pom/SettingSPage.groovy" />
+        <option value="$PROJECT_DIR$/src/main/java/com/prkw/webdriver/base/pom/BaseCrmPage.groovy" />
+        <option value="$PROJECT_DIR$/src/main/java/com/prkw/webdriver/base/pom/LeadPropertiesPage.groovy" />
+        <option value="$PROJECT_DIR$/src/main/java/com/prkw/webdriver/base/pom/SettingsPage.groovy" />
+        <option value="$PROJECT_DIR$/src/main/java/com/prkw/webdriver/base/pom/LoginToBasePage.groovy" />
+        <option value="$PROJECT_DIR$/src/main/java/com/prkw/webdriver/base/pom/AbstractBasePage.groovy" />
+        <option value="$PROJECT_DIR$/src/test/java/com/prkw/webdriver/base/AbstractBaseTest.groovy" />
+        <option value="$PROJECT_DIR$/src/test/java/com/prkw/webdriver/base/settingsTests/LeadStatusTest.groovy" />
+        <option value="$PROJECT_DIR$/src/main/java/com/prkw/webdriver/base/pom/LeadsSettingsPage.groovy" />
+        <option value="$PROJECT_DIR$/src/main/java/com/prkw/webdriver/base/pom/LeadsPage.groovy" />
         <option value="$PROJECT_DIR$/src/main/resources/BaseCredentials.properties" />
       </list>
     </option>
@@ -227,6 +241,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -245,9 +260,198 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BaseTests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BaseTests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BaseTests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BaseTests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="settingsTests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BaseTests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BaseTests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utils" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BaseTests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BaseTests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BaseTests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BaseTests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BaseTests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BaseTests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utils" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BaseTests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BaseTests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="logs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -277,15 +481,15 @@
       <recent name="com.prkw.utils" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.LeadsTest">
-    <configuration default="false" name="LeadsTest.logIn" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.LeadStatusTest.createNewLeadAndChangeStatus">
+    <configuration default="false" name="LeadStatusTest.createNewLeadAndChangeStatus" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="BaseTests" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="com.prkw.webdriver.base.settingsTests" />
-      <option name="MAIN_CLASS_NAME" value="com.prkw.webdriver.base.settingsTests.LeadsTest" />
-      <option name="METHOD_NAME" value="logIn" />
+      <option name="MAIN_CLASS_NAME" value="com.prkw.webdriver.base.settingsTests.LeadStatusTest" />
+      <option name="METHOD_NAME" value="createNewLeadAndChangeStatus" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -307,103 +511,16 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="CustomFieldsHelperTest.sampleInputXmlStyle" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="BaseTests" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.prkw.utils" />
-      <option name="MAIN_CLASS_NAME" value="com.prkw.utils.CustomFieldsHelperTest" />
-      <option name="METHOD_NAME" value="sampleInputXmlStyle" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="CustomFieldsHelperTest.leadsNew" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="BaseTests" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.prkw.utils" />
-      <option name="MAIN_CLASS_NAME" value="com.prkw.utils.CustomFieldsHelperTest" />
-      <option name="METHOD_NAME" value="leadsNew" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="CustomFieldsHelperTest.leadsNew (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="BaseTests" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.prkw.utils" />
-      <option name="MAIN_CLASS_NAME" value="com.prkw.utils.CustomFieldsHelperTest" />
-      <option name="METHOD_NAME" value="leadsNew" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="LeadsTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="LeadStatusTest.createNewLeadAndChangeStatus (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="BaseTests" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="com.prkw.webdriver.base.settingsTests" />
-      <option name="MAIN_CLASS_NAME" value="com.prkw.webdriver.base.settingsTests.LeadsTest" />
-      <option name="METHOD_NAME" />
+      <option name="MAIN_CLASS_NAME" value="com.prkw.webdriver.base.settingsTests.LeadStatusTest" />
+      <option name="METHOD_NAME" value="createNewLeadAndChangeStatus" />
       <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -423,10 +540,91 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
+    <configuration default="false" name="LeadStatusTest.createNewLeadAndChangeStatus (2)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BaseTests" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.prkw.webdriver.base.settingsTests" />
+      <option name="MAIN_CLASS_NAME" value="com.prkw.webdriver.base.settingsTests.LeadStatusTest" />
+      <option name="METHOD_NAME" value="createNewLeadAndChangeStatus" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="LeadStatusTest.createNewLeadAndChangeStatus (3)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BaseTests" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.prkw.webdriver.base.settingsTests" />
+      <option name="MAIN_CLASS_NAME" value="com.prkw.webdriver.base.settingsTests.LeadStatusTest" />
+      <option name="METHOD_NAME" value="createNewLeadAndChangeStatus" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="LeadStatusTest.createNewLeadAndChangeStatus (4)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BaseTests" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.prkw.webdriver.base.settingsTests" />
+      <option name="MAIN_CLASS_NAME" value="com.prkw.webdriver.base.settingsTests.LeadStatusTest" />
+      <option name="METHOD_NAME" value="createNewLeadAndChangeStatus" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
     <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
@@ -436,6 +634,12 @@
       <setting name="params" value="" />
       <setting name="workDir" value="file://$PROJECT_DIR$" />
       <setting name="debug" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
       <method />
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
@@ -466,6 +670,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -491,19 +708,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -560,19 +764,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="TestNG.LeadsTest.logIn" />
-      <item index="1" class="java.lang.String" itemvalue="TestNG.CustomFieldsHelperTest.sampleInputXmlStyle" />
-      <item index="2" class="java.lang.String" itemvalue="TestNG.CustomFieldsHelperTest.leadsNew" />
-      <item index="3" class="java.lang.String" itemvalue="TestNG.CustomFieldsHelperTest.leadsNew (1)" />
-      <item index="4" class="java.lang.String" itemvalue="TestNG.LeadsTest" />
+      <item index="0" class="java.lang.String" itemvalue="TestNG.LeadStatusTest.createNewLeadAndChangeStatus" />
+      <item index="1" class="java.lang.String" itemvalue="TestNG.LeadStatusTest.createNewLeadAndChangeStatus (1)" />
+      <item index="2" class="java.lang.String" itemvalue="TestNG.LeadStatusTest.createNewLeadAndChangeStatus (2)" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG.LeadStatusTest.createNewLeadAndChangeStatus (3)" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG.LeadStatusTest.createNewLeadAndChangeStatus (4)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.LeadsTest" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.CustomFieldsHelperTest.leadsNew (1)" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.CustomFieldsHelperTest.leadsNew" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG.CustomFieldsHelperTest.sampleInputXmlStyle" />
-        <item index="4" class="java.lang.String" itemvalue="TestNG.LeadsTest.logIn" />
+        <item index="0" class="java.lang.String" itemvalue="TestNG.LeadStatusTest.createNewLeadAndChangeStatus" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.LeadStatusTest.createNewLeadAndChangeStatus (4)" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.LeadStatusTest.createNewLeadAndChangeStatus (3)" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.LeadStatusTest.createNewLeadAndChangeStatus (2)" />
+        <item index="4" class="java.lang.String" itemvalue="TestNG.LeadStatusTest.createNewLeadAndChangeStatus (1)" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -611,7 +815,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -629,13 +833,13 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.241875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.51688313" sideWeight="0.73125" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34025973" sideWeight="0.73125" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32987013" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -659,6 +863,44 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="59" selection-start="305" selection-end="305" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="374" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/prkw/webdriver/base/settingsTests/LeadsTest.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="66" column="8" selection-start="2577" selection-end="2577" vertical-scroll-proportion="0.0" vertical-offset="816" max-vertical-offset="1326">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/BaseCredentials.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="12" selection-start="12" selection-end="12" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/prkw/utils/CustomFieldsHelper.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="69" selection-start="1401" selection-end="1436" vertical-scroll-proportion="0.0" vertical-offset="612" max-vertical-offset="1020">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/prkw/utils/CustomFieldsHelperDeprecated.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="6" selection-start="255" selection-end="255" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="714">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/prkw/utils/CustomFieldsHelperTest.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="125" column="18" selection-start="5913" selection-end="5974" vertical-scroll-proportion="0.0" vertical-offset="2125" max-vertical-offset="2295">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="48" column="0" selection-start="1772" selection-end="1772" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
@@ -669,18 +911,14 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/com/prkw/webdriver/base/AbstractBaseTest.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state line="39" column="56" selection-start="1521" selection-end="1521" vertical-scroll-proportion="0.0" vertical-offset="663" max-vertical-offset="1292">
-          <folding>
-            <element signature="e#34#63#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/prkw/webdriver/base/settingsTests/LeadsTest.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state line="37" column="0" selection-start="1448" selection-end="1448" vertical-scroll-proportion="0.0" vertical-offset="629" max-vertical-offset="952">
-          <folding>
-            <element signature="e#47#94#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -715,18 +953,14 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/com/prkw/webdriver/base/AbstractBaseTest.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state line="36" column="0" selection-start="1320" selection-end="1320" vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="1224">
-          <folding>
-            <element signature="e#34#63#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/prkw/webdriver/base/settingsTests/LeadsTest.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="14" selection-start="836" selection-end="836" vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="935">
-          <folding>
-            <element signature="e#47#94#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -754,18 +988,14 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/com/prkw/webdriver/base/AbstractBaseTest.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="11" selection-start="563" selection-end="563" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="1207">
-          <folding>
-            <element signature="e#34#63#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/prkw/webdriver/base/settingsTests/LeadsTest.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state line="31" column="8" selection-start="1408" selection-end="1408" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="765">
-          <folding>
-            <element signature="e#47#94#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -793,18 +1023,14 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/com/prkw/webdriver/base/AbstractBaseTest.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state line="37" column="34" selection-start="1346" selection-end="1346" vertical-scroll-proportion="0.0" vertical-offset="629" max-vertical-offset="1207">
-          <folding>
-            <element signature="e#34#63#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/prkw/webdriver/base/settingsTests/LeadsTest.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="10" selection-start="355" selection-end="355" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="391">
-          <folding>
-            <element signature="e#47#94#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -823,9 +1049,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/com/prkw/webdriver/base/AbstractBaseTest.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="17" selection-start="374" selection-end="436" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="901">
-          <folding>
-            <element signature="e#34#63#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -858,7 +1082,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="0" selection-start="1772" selection-end="1772" vertical-scroll-proportion="0.0" vertical-offset="509" max-vertical-offset="952">
+        <state line="8" column="35" selection-start="409" selection-end="409" vertical-scroll-proportion="0.0" vertical-offset="605" max-vertical-offset="952">
           <folding />
         </state>
       </provider>
@@ -870,38 +1094,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/prkw/webdriver/base/AbstractBaseTest.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="82" column="106" selection-start="3107" selection-end="3107" vertical-scroll-proportion="0.0" vertical-offset="1142" max-vertical-offset="1547">
-          <folding>
-            <element signature="e#34#63#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/prkw/utils/CustomFieldsHelper.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="69" selection-start="1401" selection-end="1436" vertical-scroll-proportion="0.0" vertical-offset="479" max-vertical-offset="986">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/prkw/webdriver/base/settingsTests/LeadsTest.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="8" selection-start="2577" selection-end="2577" vertical-scroll-proportion="-11.769231" vertical-offset="816" max-vertical-offset="1326">
-          <folding>
-            <element signature="e#47#94#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logs/testlog.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="325">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/prkw/utils/CustomFieldsHelperTest.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state line="125" column="18" selection-start="5913" selection-end="5974" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2278">
@@ -909,21 +1101,110 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/prkw/utils/CustomFieldsHelper.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="0" selection-start="986" selection-end="1094" vertical-scroll-proportion="0.0" vertical-offset="115" max-vertical-offset="986">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="59" selection-start="305" selection-end="305" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+        <state line="6" column="59" selection-start="305" selection-end="305" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374" />
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/2.40.0/selenium-api-2.40.0.jar!/org/openqa/selenium/By.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="22" selection-start="171" selection-end="171" vertical-scroll-proportion="0.19495413" vertical-offset="0" max-vertical-offset="2465" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/testlog.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="210" column="0" selection-start="20533" selection-end="20533" vertical-scroll-proportion="0.0" vertical-offset="3840" max-vertical-offset="4301">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/prkw/webdriver/base/AbstractBaseTest.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="28" selection-start="1491" selection-end="1502" vertical-scroll-proportion="0.0" vertical-offset="248" max-vertical-offset="1105">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/prkw/webdriver/base/settingsTests/LeadsTest.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="35" selection-start="1091" selection-end="1091" vertical-scroll-proportion="0.0" vertical-offset="478" max-vertical-offset="1207">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/prkw/webdriver/base/pom/AbstractBasePage.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="14" selection-start="795" selection-end="795" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="816">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/prkw/webdriver/base/pom/BaseCrmPage.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="14" selection-start="435" selection-end="460" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="493">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/prkw/webdriver/base/pom/LeadPropertiesPage.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="59" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/prkw/webdriver/base/pom/LeadsPage.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="48" selection-start="437" selection-end="437" vertical-scroll-proportion="0.0" vertical-offset="481" max-vertical-offset="1173">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/prkw/webdriver/base/pom/LeadsSettingsPage.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="680" selection-end="680" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="748">
+          <folding>
+            <element signature="e#37#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/prkw/webdriver/base/pom/LoginToBasePage.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="60" selection-start="1289" selection-end="1289" vertical-scroll-proportion="0.0" vertical-offset="118" max-vertical-offset="782">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/prkw/webdriver/base/pom/SettingsPage.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="42" selection-start="836" selection-end="840" vertical-scroll-proportion="0.0" vertical-offset="66" max-vertical-offset="527">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/BaseCredentials.properties">
+      <provider editor-type-id="ResourceBundle">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="12" selection-start="12" selection-end="12" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119">
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="ResourceBundle">
-        <state />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/prkw/webdriver/base/settingsTests/LeadStatusTest.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="19" selection-start="1856" selection-end="1856" vertical-scroll-proportion="0.5218391" vertical-offset="504" max-vertical-offset="1003">
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
